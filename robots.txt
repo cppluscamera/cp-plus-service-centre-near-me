@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vijayelectronics.github.io/sitemap.xml
+Sitemap: https://cppluscamera.github.io/cp-plus-service-centre-near-me/sitemap.xml
